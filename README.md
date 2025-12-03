@@ -101,7 +101,7 @@ train / val / test with NORMAL and PNEUMONIA folders.
 Try the complete AI-powered Chest X-ray diagnosis system directly in your browser:
 
 👉 **Hugging Face Space:**  
-[huggingface](https://huggingface.co/spaces/abdulmannaan1/chest-xray-diagnosis)]
+[huggingface(https://huggingface.co/spaces/abdulmannaan1/chest-xray-diagnosis)]
 
 ### Features in the Demo:
 - Upload chest X-ray images directly
