@@ -96,6 +96,25 @@ train / val / test with NORMAL and PNEUMONIA folders.
 
 ---
 
+## 🌐 Live Demo
+
+Try the complete AI-powered Chest X-ray diagnosis system directly in your browser:
+
+👉 **Hugging Face Space:**  
+[huggingface](https://huggingface.co/spaces/abdulmannaan1/chest-xray-diagnosis)]
+
+### Features in the Demo:
+- Upload chest X-ray images directly
+- Get real-time predictions:
+  - **Normal**
+  - **Pneumonia**
+- View probability confidence scores
+- See **Grad-CAM heatmap overlays** explaining where the CNN focused
+- No installation required – runs completely online
+
+> ⚠️ *This demo is intended for educational and demonstration purposes only and must not be used for medical diagnosis.*
+
+
 ## ⚠️ Disclaimer
 
 This project is intended strictly for educational and demonstration purposes.  
