@@ -42,7 +42,7 @@ The system includes a complete pipeline — from training on Kaggle to local web
 Try the complete AI-powered Chest X-ray diagnosis system directly in your browser:
 
 👉 **Hugging Face Space:**  
-(https://huggingface.co/spaces/abdulmannaan1/chest-xray-diagnosis)
+    https://huggingface.co/spaces/abdulmannaan1/chest-xray-diagnosis
 
 ### Features in the Demo:
 - Upload chest X-ray images directly
