@@ -56,8 +56,8 @@ Try the complete AI-powered Chest X-ray diagnosis system directly in your browse
 > ⚠️ *This demo is intended for educational and demonstration purposes only and must not be used for medical diagnosis.*
 
 ## 📷 Images
-https://github.com/abdulmannaan502/AI-Powered-Chest-X-ray-Diagnosis/blob/master/Images/1.png
-https://github.com/abdulmannaan502/AI-Powered-Chest-X-ray-Diagnosis/blob/master/Images/2.png
+Images/1.png
+Images/2.png
 
 
 ## 🚀 Local Setup Instructions
